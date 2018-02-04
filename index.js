@@ -1,0 +1,1 @@
+beatles loops returns an array of strings containing what instruments each musicians
