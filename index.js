@@ -1,4 +1,5 @@
-beatles loops returns an array of strings containing what instruments each musicians
-
-
-7.48933710
+function theBeatlesPlay(musicians, instruments) {
+  var array = [];
+  for( var i = 0, )
+  
+}
